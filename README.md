@@ -51,7 +51,7 @@
 
 ## 🧩 Мои проекты
 
-### 1. Yourtask
+### 1. [Yourtask](https://yourtask.ru)
 **Описание:**
 Проект создавался как замена ушедшим из России сервисам по типу - Trello(Atlassian), Youtrack, YouGile, Kaiten.
 
@@ -65,6 +65,9 @@
 
 Главная страница "Мои доски"
 ![Главная страница "Мои доски"](https://downloader.disk.yandex.ru/preview/408a740f7edb444615b3c88f6109693edd12844d20f888798b48b47e113a9bf6/68750da9/w9c4U69O5dg6G_40qze50dtAqewHKAEEtYiUR3yledMDDizcxK6LRCaAsiZy2fWn-PjAaNJdN_KZ7L9TqMSTYA%3D%3D?uid=0&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20193906.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2560x1271)
+
+<details>
+<summary><h3>Остальные страницы проекта</h3></summary>
 
 Страница "Внутри доски"
 ![Страница "Внутри доски"](https://downloader.disk.yandex.ru/preview/c817f0f40a0b4a5691d7860a44e155d3c50e051ff154e2346a3ef65590e78a33/68750e55/xlcKcb89GKo6Qa0CcdbE53KFfy9ihnxOQpt1l8125zQdejfl5tzh6X--4n0PR8nknecTxIeMP_VQsfg1ZqOBUQ%3D%3D?uid=0&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20193833.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
@@ -87,16 +90,30 @@
 Страница "Мои задачи"
 ![Страница "Мои задачи"](https://downloader.disk.yandex.ru/preview/70304749b573ff4a246cad1d4ca00d7453a23a9b1c291b4191a68d6a90d22b7c/6875113e/aR51N4x66E_yiN6vIt805ZJokfZkhdZj_pwCDK1ZHgcIks9SbGOLS6LGWdw_uVybCuFhhWFbl7vcos8kmyb6mw%3D%3D?uid=0&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20193935.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
 
-🔗 [Ссылка на проект](https://yourtask.ru)
+Мобильный дизайн
+![Страница "Мобильный дизайн"](https://downloader.disk.yandex.ru/preview/2a992a0cc0e63147c9d3999a0530e78c06bfd7f899728ed4b1d06800a932c863/687511e6/Z-yaPuTORca00mkKxIBaqHKFfy9ihnxOQpt1l8125zTWQCMKPw-p0iIRfX1HnHhxp00ic35L4Yef-FUOmaWBEQ%3D%3D?uid=0&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20194659.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
+![Страница "Мобильный дизайн"](https://downloader.disk.yandex.ru/preview/8a3e8e9f348cd644c39d57fdd16a0278832d3f097cb2b62fe58b58ca1c0429ce/68751227/Ua1nU9zs0N2yBwSUglFyg5JokfZkhdZj_pwCDK1ZHgcWsM-PemBo6y8DaezjcyJk9-Tbt8_QOZAZa7GW49-JyQ%3D%3D?uid=0&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20194717.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
+![Страница "Мобильный дизайн"](https://downloader.disk.yandex.ru/preview/177c2579e05c3936a773c9f1c693225bf24c43fb77a6cefa4ae3fcbfae471118/6875126a/ILd7x6jdyMrzFTgVNd8ui2ftyZmNiVoTaPad0fap4p5RNf1Mwe25umofahBybRkO_WOPbv4_2OwXm9dYLwHiQw%3D%3D?uid=0&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20195022.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=1272x1005)
+![Страница "Мобильный дизайн"](https://downloader.disk.yandex.ru/preview/c12c7e793231a816e51a451bd89955311118dd77326a17609b58c77fbcee5cc4/687512ca/pc1enAZmaGDOGbu7MQY_qQDDih97_XYjAaLPN6CNHDJ9_xiB3nWu1UerD2B-8lI53ThKXjBg6790TFnBGDltLA%3D%3D?uid=0&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20194734.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
+</details>
 
 **Детали:**  
-- ✨ **Проблема:** Что решал проект?  
-- 🔧 **Реализация:** Как я это сделал?  
-- 📈 **Результат:** Какой эффект достигнут?
+- **Как я это сделал?**
+Проект был разработан с нуля, начиная от построения архитектуры и проектирования БД до микросервисной архитектуры и поддержки websocket.
+Все начиналось с дипломного проекта, который превратился в огромную систему управления проектами.
+
+- **Какой эффект достигнут?**
+Системой пользуются муниципальные предприятия Кузбасса, рестораны Ивана Печерского, планируется выход в правительство Кузбасса. 
+
+- **Компания:** ООО "МИРИТ"
+- **Команда:**
+Teamlid - Алексей, 
+Fullstack Developer - Тычин Денис Александрович, 
+UI/UX Designer - Ксения
 
 ---
 
-### 2. 🎯 [Название проекта 2]
+### 2. 🎯 [Ус]
 **Описание:** Более сложное приложение/инструмент для...  
 🛠 Технологии: `[Python]`, `[TensorFlow]`  
 📷 Изображение:  
@@ -104,9 +121,9 @@
 🔗 [Демо](https://example.com ) | [Исходники](https://github.com/example )
 
 **Функционал:**  
-- ✔️ Возможность 1  
-- ✔️ Возможность 2  
-- ✔️ Особая фишка
+-   ✔️ Возможность 1  
+-   ✔️ Возможность 2  
+-   ✔️ Особая фишка
 
 ---
 
