@@ -120,9 +120,11 @@ UI/UX Designer - Ксения
 🛠 Технологии: `Django`, `Django REST Framework`, `JWT`, `Gunicorn`, `Poetry`, `Pytest`, `Unittest`, `Postgres`, `React`, `Webpack`,
 `Redux`, `D3.js`, `Swagger`, `Telegram API`, `Nginx`, `Docker`, `Docker Compose`, `Makefile`, `Axios`, `PWA`, `GitHub`, `DockerHub`.
 
-🔗 [Исходники](https://github.com/Fairfay/report_task_backend)
-🔗 [Исходники](https://github.com/Fairfay/report_task_frontend)
-🔗 [Исходники](https://github.com/Fairfay/report_task_mobile)
+🔗 [Исходники backend](https://github.com/Fairfay/report_task_backend)
+
+🔗 [Исходники frontend](https://github.com/Fairfay/report_task_frontend)
+
+🔗 [Исходники mobile](https://github.com/Fairfay/report_task_mobile)
 
 **Детали:**
 - **Какой эффект достигнут?**
