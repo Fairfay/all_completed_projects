@@ -156,7 +156,7 @@
 
 ### Облачные сервисы и хранение
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-232f3e?logo=aws&logoColor=white) * ![Yandex Cloud](https://img.shields.io/badge/Yandex%20Cloud-4e79eb?logo=yandexcloud&logoColor=white) * 
-![Yandex Object Storage](https://img.shields.io/badge/Yandex%20Object%20Storage-4e79eb?logo=yandexcloud&logoColor=white) * ![S3 Ростелеком](https://img.shields.io/badge/S3%20Ростелеком-7700ff?logo=minio&logoColor=white) * 
+![Yandex Object Storage](https://img.shields.io/badge/Yandex%20Object%20Storage-4e79eb?logo=yandexcloud&logoColor=white) * ![S3 Ростелеком](https://img.shields.io/badge/S3%20Ростелеком-7700ff?logo=rostelecom&logoColor=white) * 
 ![Sentry](https://img.shields.io/badge/Sentry-32243e?logo=sentry&logoColor=white) * ![S3 Minio](https://img.shields.io/badge/S3%20Minio-cf163e?logo=minio&logoColor=white) * 
 ![Safety CLI](https://img.shields.io/badge/Safety%20CLI-3e63dd?logo=safetycli&logoColor=white)  
 
