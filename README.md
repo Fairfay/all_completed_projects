@@ -410,12 +410,13 @@ Fullstack Developer - Тычин Денис Александрович
 ---
 
 ## 📬 Связь со мной
-📩 Email: tycindenis@gmail.com 
-💬 Telegram: @fairfay
-🌍 Tenchat: https://tenchat.ru/4820355
+Email: tycindenis@gmail.com 
+Telegram: @fairfay
+Tenchat: https://tenchat.ru/4820355
+Habr: https://career.habr.com/fairfay
 
 ---
 
 ## 📚 Полезные ссылки
-- 📄 [Всегда актуальное резюме на HH](https://kemerovo.hh.ru/resume/bdd60bfcff0c2487160039ed1f447a6d306563)
-- 📄 [Моё резюме Яндекс Диск](https://disk.yandex.ru/i/dGN6vhITeMuJNQ)    
+- [Всегда актуальное резюме на HH](https://kemerovo.hh.ru/resume/bdd60bfcff0c2487160039ed1f447a6d306563)
+- [Моё резюме Яндекс Диск](https://disk.yandex.ru/i/dGN6vhITeMuJNQ)    
