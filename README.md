@@ -32,7 +32,7 @@
   <div>
     <h4>Команда:</h4>
     <ul>
-      <li><strong>Backend-разработчик</strong></li>
+      <li><strong>Backend-Разработчик</strong></li>
       <li>Руководитель проектов</li>
       <li>Аналитик</li>
       <li>Бизнес-ассистент</li>
