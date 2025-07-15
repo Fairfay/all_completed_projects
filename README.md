@@ -131,40 +131,75 @@
 ## Ниже представлены мои навыки и проекты.
 
 ### Веб-фреймворки и серверы
-`Django` • `FastAPI` • `Flask` • `Scrapy` • `Uvicorn` • `Gunicorn` • `Django REST Framework` • `Django WEB Framework`
+![Django](https://img.shields.io/badge/Django-092e20?logo=django&logoColor=white) * ![FastAPI]( https://img.shields.io/badge/FastAPI-009588?logo=fastapi&logoColor=white) * 
+![Flask]( https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white) * ![Scrapy]( https://img.shields.io/badge/Scrapy-121212?logo=scrapy&logoColor=orange) * 
+![Uvicorn]( https://img.shields.io/badge/Uvicorn-F89820?logo=uvicorn&logoColor=white) * ![Gunicorn]( https://img.shields.io/badge/Gunicorn-gray?logo=gunicorn&logoColor=white) * 
+![Django REST Framework]( https://img.shields.io/badge/Django%20REST%20Framework-092e20?logo=django&logoColor=white) * ![Django WEB Framework]( https://img.shields.io/badge/Django%20WEB%20Framework-092e20?logo=django&logoColor=white)
 
 ### Тестирование и CI/CD
-`Pytest` • `Unittest` • `Selenium` • `Swagger` • `OpenAPI` • `Pydantic` • `Postman` • `GitLab CI/CD`, `GitHub Actions`
+![Pytest]( https://img.shields.io/badge/Pytest-FF4500?logo=pytest&logoColor=white) * ![Unittest]( https://img.shields.io/badge/Unittest-3776AB?logo=python&logoColor=white) * 
+![Selenium]( https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) * ![Swagger]( https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black) * 
+![OpenAPI]( https://img.shields.io/badge/OpenAPI-2560D7?logo=swagger&logoColor=white) * ![Pydantic]( https://img.shields.io/badge/Pydantic-2560D7?logo=pydantic&logoColor=white) * 
+![Postman]( https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) * ![GitLab CI/CD]( https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white) * 
+![GitHub Actions]( https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
 ### Базы данных и кэширование
-`PostgreSQL` • `Redis` • `SQLAlchemy` • `Alembic` • `SQLite` • `MS SQL Server` • `MySQL`
+![PostgreSQL]( https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) * ![Redis]( https://img.shields.io/badge/Redis-white?logo=redis&logoColor=red) * 
+![SQLAlchemy]( https://img.shields.io/badge/SQLAlchemy-2E85BA?logo=sqlalchemy&logoColor=white) * ![Alembic]( https://img.shields.io/badge/Alembic-2E85BA?logo=sqlalchemy&logoColor=white) * 
+![SQLite]( https://img.shields.io/badge/SQLite-003B5C?logo=sqlite&logoColor=white) * ![MS SQL]( https://img.shields.io/badge/MS%20SQL%20Server-CC2929?logo=microsoftsqlserver&logoColor=white) * 
+![MySQL]( https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white)
 
 ### Асинхронность и задачи
-`Celery` • `Flower` • `AsyncIO` • `Django Channels (WebSockets)` • `Aiogoogle`
+![Celery]( https://img.shields.io/badge/Celery-FF9933?logo=celery&logoColor=white) * ![Flower]( https://img.shields.io/badge/Celery%20Flower-FF9933?logo=celery&logoColor=white) * 
+![AsyncIO]( https://img.shields.io/badge/AsyncIO-3776AB?logo=python&logoColor=white) * ![Django Channels (WebSockets)]( https://img.shields.io/badge/Django%20Channels%20(WebSockets)-092e20?logo=django&logoColor=white) * 
+![Aiogoogle]( https://img.shields.io/badge/Aiogoogle-2560D7?logo=google%20workspace&logoColor=white)
 
 ### Облачные сервисы и хранение
-`AWS S3` • `Yandex Object Storage` • `Yandex Cloud` • `Sentry` • `Safety` • `S3 - Ростелеком` • `S3 - Minio` 
+![AWS S3]( https://img.shields.io/badge/AWS%20S3-orange?logo=aws&logoColor=white) * ![Yandex Cloud]( https://img.shields.io/badge/Yandex%20Cloud-FF0000?logo=yandexcloud&logoColor=white) * 
+![Yandex Object Storage]( https://img.shields.io/badge/Yandex%20Object%20Storage-FF0000?logo=yandexcloud&logoColor=white) * ![S3 - Ростелеком]( https://img.shields.io/badge/S3%20-%20Ростелеком-403494?logo=minio&logoColor=white) 
+![Sentry]( https://img.shields.io/badge/Sentry-362B99?logo=sentry&logoColor=white) * ![S3 - Minio]( https://img.shields.io/badge/S3%20-%20Minio-403494?logo=minio&logoColor=white) * 
+![Safety]( https://img.shields.io/badge/Safety-403494?logo=minio&logoColor=white)  
 
 ### Контейнеризация и оркестрация
-`Docker` • `Docker Compose` • `Docker Compose Override` • `GitLab Container Registry` • `DockerHub`
+![Docker]( https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) * ![Docker Compose]( https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white) * 
+![Docker Compose Override]( https://img.shields.io/badge/Docker%20Compose%20Override-FC6D26?logo=gitlab&logoColor=white) * ![GitLab Container Registry]( https://img.shields.io/badge/GitLab%20Container%20Registry-FC6D26?logo=gitlab&logoColor=white) * 
+![DockerHub]( https://img.shields.io/badge/DockerHub-2496ED?logo=docker&logoColor=white)
 
 ### Фронтенд и интеграции
-`React` • `Redux` • `webpack` • `PWA` • `Axios` • `Ajax` • `D3.js` • `CKEditor5` • `DHTMLX` • `Chart.js`
+![React]( https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) * ![Redux]( https://img.shields.io/badge/Redux-764BA2?logo=redux&logoColor=white) * 
+![Webpack]( https://img.shields.io/badge/Webpack-8DD673?logo=webpack&logoColor=white) * ![PWA]( https://img.shields.io/badge/PWA-3885E9?logo=pwa&logoColor=white) * 
+![Axios]( https://img.shields.io/badge/Axios-8DD673?logo=webpack&logoColor=white) * ![Ajax]( https://img.shields.io/badge/Ajax-3885E9?logo=pwa&logoColor=white) * 
+![D3.js]( https://img.shields.io/badge/D3.js-8DD673?logo=webpack&logoColor=white) * ![CKEditor5]( https://img.shields.io/badge/CKEditor5-3885E9?logo=pwa&logoColor=white) * 
+![Chart.js]( https://img.shields.io/badge/Chart.js-FF5C21?logo=chartdotjs&logoColor=white) * ![DHTMLX]( https://img.shields.io/badge/DHTMLX-FF5C21?logo=chartdotjs&logoColor=white)
 
 ### Авторизация и безопасность
-`JWT` • `OAuth 2.0` • `OAuth` • `API Gateway (Nginx)` • `Safety`
+![JWT]( https://img.shields.io/badge/JWT-black?logo=jsonwebtokens&logoColor=white) * ![OAuth]( https://img.shields.io/badge/OAuth-FF6B00?logo=oauth&logoColor=white) * 
+![API Gateway(Nginx)]( https://img.shields.io/badge/API%20Gateway(Nginx)-009639?logo=nginx&logoColor=white) * ![Safety]( https://img.shields.io/badge/Safety-403494?logo=minio&logoColor=white) * 
+![OAuth 2.0]( https://img.shields.io/badge/OAuth%202.0-FF6B00?logo=oauth&logoColor=white) * ![django-axes]( https://img.shields.io/badge/django-axes-403494?logo=minio&logoColor=white)
 
 ### Языки и утилиты
-`Python` • `C#` • `Go` • `JavaScript` • `TypeScript` • `Bash` • `ООП` • `HTML` • `CSS` • `Jinja2` • `Tmux` • `Makefile`
+![Python]( https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) * ![C#]( https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white) * 
+![Go]( https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) * ![TypeScript]( https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) * 
+![JavaScript]( https://img.shields.io/badge/JavaScript-4EAA25?logo=gnubash&logoColor=white) * ![ООП]( https://img.shields.io/badge/ООП-2E2E2E?logo=tmux&logoColor=white) * 
+![Bash]( https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) * ![Tmux]( https://img.shields.io/badge/Tmux-2E2E2E?logo=tmux&logoColor=white) *
+![HTML]( https://img.shields.io/badge/HTML-00ADD8?logo=go&logoColor=white) * ![CSS]( https://img.shields.io/badge/CSS-3178C6?logo=typescript&logoColor=white) * 
+![Jinja2]( https://img.shields.io/badge/Jinja2-00ADD8?logo=go&logoColor=white) * ![Makefile]( https://img.shields.io/badge/Makefile-3178C6?logo=typescript&logoColor=white)
 
 ### Сторонние API
-`Telegram API` • `Yandex API` • `Google API` • `Dropbox API` • `Google Sheets API` 
+![Telegram API]( https://img.shields.io/badge/Telegram%20API-26A5E4?logo=telegram&logoColor=white) * ![Yandex API]( https://img.shields.io/badge/Yandex%20API-FF0000?logo=yandex&logoColor=white) * 
+![Google API]( https://img.shields.io/badge/Google%20API-4285F4?logo=googleapis&logoColor=white) * ![Dropbox]( https://img.shields.io/badge/Dropbox-007EE5?logo=dropbox&logoColor=white) * 
+![Google Sheets API]( https://img.shields.io/badge/Google%20Sheets%20API-4285F4?logo=googleapis&logoColor=white)
 
-### Системы контроля версий  
-`GitHub` • `GitLab` • `GitTea`
+### Системы контроля версий
+![GitHub]( https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) * ![GitLab]( https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white) * 
+![GitTea]( https://img.shields.io/badge/GitTea-FC6D26?logo=gittea&logoColor=white)
 
-### Инструменты и практики  
-`Poetry` • `Linux` • `Nginx` • `Threading` • `Multiprocessing` • `GIL` • `Postman` • `YAML` • `RESTful API` • `Requests`
+### Инструменты и практики
+![Poetry]( https://img.shields.io/badge/Poetry-14354C?logo=poetry&logoColor=white) * ![Linux]( https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) * 
+![Nginx]( https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) * ![REST API]( https://img.shields.io/badge/REST%20API-2E85BA?logo=api&logoColor=white) * 
+![Threading]( https://img.shields.io/badge/Threading-009639?logo=nginx&logoColor=white) * ![Multiprocessing]( https://img.shields.io/badge/Multiprocessing-2E85BA?logo=api&logoColor=white) * 
+![GIL]( https://img.shields.io/badge/GIL-009639?logo=nginx&logoColor=white) * ![Postman]( https://img.shields.io/badge/Postman-2E85BA?logo=api&logoColor=white) * 
+![YAML]( https://img.shields.io/badge/YAML-009639?logo=nginx&logoColor=white) * ![Requests]( https://img.shields.io/badge/Requests-2E85BA?logo=api&logoColor=white)
 
 
 ---
